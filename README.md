@@ -1,11 +1,11 @@
 # Autoclicker
-This emulate an usb mouse throught an attiny85
-When pressing the button, you get 5 mode.
+This emulate an USB mouse throught an attiny85
+When pressing the button, you get five modes.
 Pressing immediatly swhitch to the next mode. Pressing after 3 seconds go to
 idle.
 You can use a custom circuit or the usb-attiny provided by digispark
 
-## 0 - Idle.
+## 0 - Idle
 The mouse does nothing.
 The led do a short blink evry 3s
 
@@ -29,4 +29,4 @@ show the same button as the same place.
 ## 4 - Draw a rose
 Open paint on enjoy.
 Led blink mediumly
-I didn't found any seriuos use case of this feature
+I didn't found any serious use case of this feature
